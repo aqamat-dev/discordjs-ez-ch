@@ -82,4 +82,6 @@ client.on('message', message => {
 	}
 });
 
+//token bierze z pliku config.json
+
 client.login(token);
